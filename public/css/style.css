@@ -1,0 +1,12 @@
+body {
+  background: #eceff1;
+}
+
+#askme-form {
+  margin-top: 5vh;
+}
+
+.form-control:focus {
+  border-color: #222;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px #222;
+}
